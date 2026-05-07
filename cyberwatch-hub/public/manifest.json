@@ -1,0 +1,17 @@
+{
+  "name": "Violence Detection System",
+  "short_name": "VDS",
+  "description": "AI-Powered Violence Detection Surveillance System",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#0a0a0a",
+  "theme_color": "#00f2ea",
+  "orientation": "portrait-primary",
+  "icons": [
+    {
+      "src": "/favicon.ico",
+      "sizes": "64x64",
+      "type": "image/x-icon"
+    }
+  ]
+}
